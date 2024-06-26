@@ -40,7 +40,7 @@ export function PayoutsComp(){
         </div>
         
             <div className=" flex justify-center font-medium text-gray-600 bg-slate-300 pt-4">----- Made By <span className="pl-1 cursor-pointer text-blue-700"><a href="https://github.com/Pranshul-art" target="_blank">Pranshul Gupta</a></span>, inspired by <span className="pl-1 cursor-pointer text-blue-700"><a href="https://x.com/subhashchy/status/1744308069751025894?t=MrLV-PSnfsgv0Hg2jTz5JA&s=08" target="_blank">Dukaan App UI</a></span> -----</div>  
-            <div className="flex justify-center underline font-light text-gray-600 bg-gray-300 cursor-pointer">Get the source code</div>
+            <div className="flex justify-center underline font-light text-gray-600 bg-gray-300 cursor-pointer pb-4"><a href="https://github.com/Pranshul-art/Dukan-project.git" target="_blank">Get the source code</a></div>
         
     </div>
 }
