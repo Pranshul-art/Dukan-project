@@ -140,7 +140,7 @@ export function TransactionDetails(){
             
             <div className="pr-4">ORDER ID</div>
             <div className="pr-4"> STATUS</div>
-            <div className="text-right w-48 flex justify-start pr-4">TRANSACTION ID</div>
+            <div className="text-right w-48 flex justify-start pr-4 md:pl-11">TRANSACTION ID</div>
             <div className="text-left md:w-36 pr-4">REFUND DATE</div>
             <div className="lg:pl-36 ">ORDER AMOUNT</div>
         </div>
