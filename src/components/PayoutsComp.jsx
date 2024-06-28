@@ -24,12 +24,12 @@ export function PayoutsComp(){
              
              <div class="flex gap-2 pt-4 h-16  ">
  
-                <button className="bg-gray-300 px-4 py-2 h-8 flex-col justify-center rounded-full opacity-50" disabled>
+                <button className="bg-gray-300 px-4 py-2 h-8 flex flex-col justify-center rounded-full opacity-50" disabled>
                     Payouts(22)
                 </button>
 
   
-                <button className=" px-4 py-2 flex-col h-8 justify-center rounded-full text-white" style={{backgroundColor:"#146eb4", color:"white"}}>
+                <button className=" px-4 py-2 flex flex-col justify-center h-8  rounded-full text-white" style={{backgroundColor:"#146eb4", color:"white"}}>
                     Refunds(6)
                 </button>
              </div>
